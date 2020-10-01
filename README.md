@@ -1,5 +1,5 @@
-#### WhatsApp Bot
-## Learned through Coursera Course Assignment
+## WhatsApp-Message-Repeater Bot
+#### Learned through Coursera Course Assignment
 
 This is done using python selenium.
 
@@ -28,3 +28,5 @@ DONE.
 #### Run the command to get Recent Chat Contacts
 
 ``` python whatsapp_contacts.py ```
+
+#### That's it!!
